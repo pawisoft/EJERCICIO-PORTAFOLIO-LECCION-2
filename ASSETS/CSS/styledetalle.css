@@ -1,0 +1,17 @@
+@media screen {
+    body{
+        background-color: rgb(210, 255, 240);
+    }
+    .container{
+        font-family: titillium-web-regular;
+        text-align: center;
+        color: rgb(4, 37, 85);
+        background-color: rgb(173, 226, 255);
+        background-repeat: no-repeat;   
+        background-size: cover;         
+        background-position: center;
+        padding: 3%;
+        border-radius: 8px;
+    }
+   
+}
